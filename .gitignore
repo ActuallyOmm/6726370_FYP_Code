@@ -1,0 +1,2 @@
+# Ignore DATASET folders in all subdirectories
+**/DATASET/
